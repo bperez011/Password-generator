@@ -25,3 +25,4 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Mock up
+![Screenshot 2023-04-08 091212](https://user-images.githubusercontent.com/112590275/230725771-114d73d6-8af1-492e-840f-07effe63a7ad.png)
