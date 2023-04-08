@@ -1,5 +1,9 @@
 # PASSWORD GEN
 
+
+## Deployed 
+https://bperez011.github.io/Password-generator/
+
 ## User Story
 
 AS AN employee with access to sensitive data
